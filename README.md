@@ -1,8 +1,63 @@
-- 👋 Hi, I’m Matt (@Mattyb883)
-- 🌱 I’m currently learning Python through TripleTen's DS course. 
-- 💞️ I’m looking to collaborate on projects to gain experience. 
-- 📫 How to reach me matt.baglietto11@gmail.com b
-- ⚡ Fun fact: I like spending my free time with my son playing lacrosse, fishing & camping. 
+# 👋 Hi there! I'm Matt (@Mattyb883)
+
+Welcome to my GitHub profile! I'm a **lifelong learner** currently diving into the world of **Python programming** through TripleTen's Data Science course. I'm passionate about expanding my skills and collaborating on exciting projects.
+
+---
+
+## 🌱 About Me
+
+- 🚀 I’m currently learning **Python** and exploring the world of **Data Science**.
+- 💡 I’m interested in projects that help me gain real-world experience and develop practical coding skills.
+- 💞️ I’m looking to collaborate on **Python** and **Data Science** projects to learn, grow, and contribute.
+- 📫 You can reach me at **matt.baglietto11@gmail.com**.
+
+---
+
+## ⚡ Fun Fact
+
+> When I'm not coding, you can find me:
+> - 🥍 Playing lacrosse with my son
+> - 🎣 Fishing in the great outdoors
+> - ⛺ Camping and exploring nature
+
+---
+
+## 🛠️ Skills & Tools I'm Learning
+
+![Python](https://img.shields.io/badge/-Python-007ACC?style=flat-square&logo=python)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+
+---
+
+## 🚀 Current Goals
+
+- 🌱 Advance my skills in **Python** and **Data Science tools** like Pandas, NumPy, and Matplotlib.
+- 👯 Collaborate on open-source projects to build a solid portfolio.
+- 📈 Start contributing to meaningful projects in the **Data Science** community.
+
+---
+
+## 📈 GitHub Stats
+
+![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mattyb883&show_icons=true&hide_border=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mattyb883&layout=compact&theme=radical)
+
+---
+
+## 📬 Connect with Me
+
+[![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matt.baglietto11@gmail.com)](mailto:matt.baglietto11@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/)
+
+---
+
+## 🌟 Fun Projects Coming Soon!
+
+Stay tuned for projects I'm working on during my **Data Scienc
 
 <!---
 Mattyb883/Mattyb883 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
