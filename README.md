@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a **lifelong learner** currently diving into t
 - 🚀 I’m currently learning **Python** and exploring the world of **Data Science**.
 - 💡 I’m interested in projects that help me gain real-world experience and develop practical coding skills.
 - 💞️ I’m looking to collaborate on **Python** and **Data Science** projects to learn, grow, and contribute.
-- 📫 You can reach me at **matt.baglietto11@gmail.com**.
+- 📫 You can reach me at **matt.vaglietto11@gmail.com**.
 
 ---
 
@@ -50,14 +50,15 @@ Welcome to my GitHub profile! I'm a **lifelong learner** currently diving into t
 
 ## 📬 Connect with Me
 
-[![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matt.baglietto11@gmail.com)](mailto:matt.baglietto11@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/)
+[![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matt.vaglietto11@gmail.com)](mailto:matt.vaglietto11@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/matthewbaglietto/)](https://www.linkedin.com/in/matthewbaglietto/)
 
 ---
 
 ## 🌟 Fun Projects Coming Soon!
 
-Stay tuned for projects I'm working on during my **Data Scienc
+Stay tuned for projects I'm working on during my **Data Science journey**. Feel free to connect if you'd like to work together on something amazing!
+
 
 <!---
 Mattyb883/Mattyb883 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
