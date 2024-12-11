@@ -16,7 +16,6 @@ Welcome to my GitHub profile! I'm a **lifelong learner** currently diving into t
 ## ⚡ Fun Fact
 
 > When I'm not coding, you can find me:
-> - 🫶 Hanging with my family
 > - 🥍 Playing lacrosse with my son
 > - 🎣 Fishing in the great outdoors
 > - ⛺ Camping and exploring nature
@@ -29,6 +28,9 @@ Welcome to my GitHub profile! I'm a **lifelong learner** currently diving into t
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat-square&logo=scikit-learn)
+![Supervised Learning](https://img.shields.io/badge/-Supervised%20Learning-00C853?style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
@@ -36,7 +38,7 @@ Welcome to my GitHub profile! I'm a **lifelong learner** currently diving into t
 
 ## 🚀 Current Goals
 
-- 🌱 Advance my skills in **Python** and **Data Science tools** like Pandas, NumPy, and Matplotlib.
+- 🌱 Advance my skills in **Python**, **SQL**, and **Machine Learning tools** like Pandas, NumPy, and scikit-learn.
 - 👯 Collaborate on open-source projects to build a solid portfolio.
 - 📈 Start contributing to meaningful projects in the **Data Science** community.
 
@@ -59,10 +61,3 @@ Welcome to my GitHub profile! I'm a **lifelong learner** currently diving into t
 ## 🌟 Fun Projects Coming Soon!
 
 Stay tuned for projects I'm working on during my **Data Science journey**. Feel free to connect if you'd like to work together on something amazing!
-
-
-
-<!---
-Mattyb883/Mattyb883 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
