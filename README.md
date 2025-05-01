@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm a **lifelong learner** currently diving into t
 
 ## 🌱 About Me
 
-- 🚀 I’m currently learning **Python** and exploring the world of **Data Science**.
 - 💡 I’m interested in projects that help me gain real-world experience and develop practical coding skills.
 - 💞️ I’m looking to collaborate on **Python** and **Data Science** projects to learn, grow, and contribute.
 - 📫 You can reach me at **matt.baglietto11@gmail.com**.
