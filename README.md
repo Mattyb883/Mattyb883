@@ -1,14 +1,37 @@
 # 👋 Hi there! I'm Matt (@Mattyb883)
 
-Welcome to my GitHub profile! I'm a **lifelong learner** currently diving into the world of **Python programming** through TripleTen's Data Science course. I'm passionate about expanding my skills and collaborating on exciting projects.
+💻 GitHub “About Me” README (Polished & Professional)
+Hi, I’m Matthew Baglietto — an experienced Ecommerce Data Analyst with 15+ years helping businesses use data to drive growth, improve customer experience, and optimize digital performance.
 
----
+--
 
-## 🌱 About Me
+I specialize in:
 
-- 💡 I’m interested in projects that help me gain real-world experience and develop practical coding skills.
-- 💞️ I’m looking to collaborate on **Python** and **Data Science** projects to learn, grow, and contribute.
-- 📫 You can reach me at **matt.baglietto11@gmail.com**.
+Web & Marketing Analytics: Google Analytics 4, SQL, Python
+
+A/B Testing & CRO: Funnel optimization, hypothesis testing, experiment design
+
+Ecommerce Platforms: Shopify, Amazon Seller Central, Magento, Walmart Marketplace
+
+Predictive Modeling & Machine Learning: Regression, classification, forecasting, clustering
+
+Data Visualization & Dashboards: Google Data Studio, Tableau, Power BI, Excel
+
+--
+
+On this GitHub, you’ll find:
+
+Ecommerce analytics and reporting projects
+
+Python and SQL scripts for data transformation, cleaning, and visualization
+
+Machine learning models applied to real-world business challenges
+
+End-to-end workflows that connect business questions to actionable insights
+
+I’m passionate about bridging the gap between business and data — transforming raw information into strategies that improve conversion, retention, and profitability.
+
+Let’s connect or collaborate on data-driven projects!
 
 ---
 
