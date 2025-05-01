@@ -1,37 +1,36 @@
 # 👋 Hi there! I'm Matt (@Mattyb883)
 
-💻 GitHub “About Me” README (Polished & Professional)
-Hi, I’m Matthew Baglietto — an experienced Ecommerce Data Analyst with 15+ years helping businesses use data to drive growth, improve customer experience, and optimize digital performance.
+I'm an experienced Ecommerce Data Analyst with 15+ years helping businesses use data to drive growth, improve customer experience, and optimize digital performance.
 
---
+---
 
 I specialize in:
 
-Web & Marketing Analytics: Google Analytics 4, SQL, Python
+📊 Web & Marketing Analytics: Google Analytics 4, SQL, Python
 
-A/B Testing & CRO: Funnel optimization, hypothesis testing, experiment design
+🔬 A/B Testing & CRO: Funnel optimization, hypothesis testing, experiment design
 
-Ecommerce Platforms: Shopify, Amazon Seller Central, Magento, Walmart Marketplace
+🛒 Ecommerce Platforms: Shopify, Amazon Seller Central, Magento, Walmart Marketplace
 
-Predictive Modeling & Machine Learning: Regression, classification, forecasting, clustering
+🤖 Predictive Modeling & Machine Learning: Regression, classification, forecasting, clustering
 
-Data Visualization & Dashboards: Google Data Studio, Tableau, Power BI, Excel
+📈 Data Visualization & Dashboards: Google Data Studio, Tableau, Power BI, Excel
 
---
+---
 
 On this GitHub, you’ll find:
 
-Ecommerce analytics and reporting projects
+📂 Ecommerce analytics and reporting projects
 
-Python and SQL scripts for data transformation, cleaning, and visualization
+🐍 Python and SQL scripts for data transformation, cleaning, and visualization
 
-Machine learning models applied to real-world business challenges
+🧠 Machine learning models applied to real-world business challenges
 
-End-to-end workflows that connect business questions to actionable insights
+🛠 End-to-end workflows that connect business questions to actionable insights
 
 I’m passionate about bridging the gap between business and data — transforming raw information into strategies that improve conversion, retention, and profitability.
 
-Let’s connect or collaborate on data-driven projects!
+✨ Let’s connect or collaborate on data-driven projects!
 
 ---
 
