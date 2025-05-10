@@ -36,10 +36,10 @@ I’m passionate about bridging the gap between business and data — transformi
 
 ## ⚡ Fun Fact
 
-> When I'm not coding, you can find me:
-> - 🥍 Playing lacrosse with my son
-> - 🎣 Fishing in the great outdoors
-> - ⛺ Camping and exploring nature
+When I'm not coding, you can find me:
+- 🥍 Playing lacrosse with my son
+- 🎣 Fishing in the great outdoors
+- ⛺ Camping and exploring nature
 
 ---
 
