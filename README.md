@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Matt (@Mattyb883) 
 
-I am a data analyst with 15+ years of experience managing digital storefronts, optimizing marketplace performance, and using data to drive smart business decisions.
+I am a Data Scientist with 15+ years of experience managing digital storefronts, optimizing marketplace performance, and using data to drive smart business decisions.
 
 I’ve managed large Amazon Seller Central catalogs, led SEO and ad strategy, and recently expanded my technical skill set with training in Python, SQL, and machine learning through TripleTen's Data Science program. Here on GitHub, you’ll find projects in user behavior analysis, sales forecasting, churn prediction, and more — all focused on practical, business-impacting insights.
 
