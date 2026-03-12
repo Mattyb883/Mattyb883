@@ -1,41 +1,31 @@
 # 👋 Hi there! I'm Matt (@Mattyb883) 
 
-I am a Data Scientist with 15+ years of experience managing digital storefronts, optimizing marketplace performance, and using data to drive smart business decisions.
+Turning Python engineering into scalable cloud infrastructure.
 
-I’ve managed large Amazon Seller Central catalogs, led SEO and ad strategy, and recently expanded my technical skill set with training in Python, SQL, and machine learning through TripleTen's Data Science program. Here on GitHub, you’ll find projects in user behavior analysis, sales forecasting, churn prediction, and more — all focused on practical, business-impacting insights.
+My journey started in data analytics, where I built Python tools to clean, process, and analyze complex datasets. While working with data pipelines and automation, I developed a strong interest in backend systems and cloud infrastructure, which led me to specialize in Python engineering and Cloud DevOps.
 
-I'm always exploring ways to merge ecommerce with deeper analytics. Let’s connect!
+I now design and automate scalable AWS infrastructure using Python and Infrastructure as Code (IaC) to support modern applications and data-driven systems.
+
+I previously worked as an AWS Infrastructure & CDK Engineer at TrendzAct, where I designed and deployed production-grade cloud environments and automated infrastructure provisioning using Python-based AWS CDK projects.
+
+Instead of manual setup, I focus on automated, repeatable, and secure infrastructure that allows teams to deploy faster and scale efficiently.
+
+If you need AWS infrastructure automation, cloud migration, or scalable backend systems, feel free to reach out
 
 
 ---
 
 I specialize in:
 
-📊 Web & Marketing Analytics: Google Analytics 4, SQL, Python
+📊 Programming - Python (Automation, Cloud Engineering, Data Science)
 
-🔬 A/B Testing & CRO: Funnel optimization, hypothesis testing, experiment design
+🔬 AWS Services - EC2, Lambda, API Gateway, ECS, RDS, VPC, IAM, S3, Cognito, CloudFront, SNS, SES, SQS, CloudWatch
 
-🛒 Ecommerce Platforms: Shopify, Amazon Seller Central, Magento, Walmart Marketplace
+🛒 Infrastructure as Code - Python CDK •  Terraform • Kubernetes •  SAM • Cloud Automation
 
-🤖 Predictive Modeling & Machine Learning: Regression, classification, forecasting, clustering
+🤖 Databases - MSSQL • MongoDB • SQL • Aurora  • DynamoDB  • MongoDB
 
-📈 Data Visualization & Dashboards: Google Data Studio, Tableau, Power BI, Excel
-
----
-
-On this GitHub, you’ll find:
-
-📂 Ecommerce analytics and reporting projects
-
-🐍 Python and SQL scripts for data transformation, cleaning, and visualization
-
-🧠 Machine learning models applied to real-world business challenges
-
-🛠 End-to-end workflows that connect business questions to actionable insights
-
-I’m passionate about bridging the gap between business and data — transforming raw information into strategies that improve conversion, retention, and profitability.
-
-✨ Let’s connect or collaborate on data-driven projects!
+📈 Other Skills - Linux • Networking • Cloud Security • Solution Architecture
 
 ---
 
@@ -54,9 +44,12 @@ When I'm not coding, you can find me:
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter)
-![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql)
+![SQL](https://img.shields.io/badge/-SQL-ffffff?style=flat-square&logo=postgresql)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat-square&logo=scikit-learn)
-![Supervised Learning](https://img.shields.io/badge/-Supervised%20Learning-00C853?style=flat-square)
+![Terraform](https://img.shields.io/badge/Terraform-green?style=flat-square&logo=terraform&logoColor=F37626)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-013243?style=flat-square&logo=kubernetes&logoColor=F37626)
+![Node](https://img.shields.io/badge/Node-34eb43?style=flat-square&logo=node.js&logoColor=F37626)
+![TypeScript](https://img.shields.io/badge/TypeScript-10d2e8?style=flat-square&logo=typescript&logoColor=F37626)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
@@ -64,9 +57,9 @@ When I'm not coding, you can find me:
 
 ## 🚀 Current Goals
 
-- 🌱 Advance my skills in **Python**, **SQL**, and **Machine Learning tools** like Pandas, NumPy, and scikit-learn.
+- 🌱 Advance my skills in **Cloud Computing**, **DevOps**, and **Solution Architect** on AWS, GCP, Azure.
 - 👯 Collaborate on open-source projects to build a solid portfolio.
-- 📈 Start contributing to meaningful projects in the **Data Science** community.
+- 📈 Start contributing to meaningful projects in the **Cloud Computing & Solution Architecture** community.
 
 ---
 
@@ -86,4 +79,4 @@ When I'm not coding, you can find me:
 
 ## 🌟 Fun Projects Coming Soon!
 
-Stay tuned for projects I'm working on during my **Data Science journey**. Feel free to connect if you'd like to work together on something amazing!
+Stay tuned for projects I'm working on during my **Cloud DevOps journey**. Feel free to connect if you'd like to work together on something amazing!
