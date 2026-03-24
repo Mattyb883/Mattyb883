@@ -71,8 +71,6 @@ When I'm not coding, you can find me:
 ---
 
 ## 📬 Connect with Me
-
-[![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matt.baglietto11@gmail.com)](mailto:matt.baglietto11@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/matthewbaglietto/)](https://www.linkedin.com/in/matthewbaglietto/)
 
 ---
