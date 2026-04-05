@@ -17,7 +17,7 @@ If you need AWS infrastructure automation, cloud migration, or scalable backend 
 
 I specialize in:
 
-📊 Programming - Python (Automation, Cloud Engineering, Data Science)
+📊 Programming - Python (Automation, Cloud Engineering, Data Science),  C/C#, ASP.NET
 
 🔬 AWS Services - EC2, Lambda, API Gateway, ECS, RDS, VPC, IAM, S3, Cognito, CloudFront, SNS, SES, SQS, CloudWatch
 
@@ -25,7 +25,7 @@ I specialize in:
 
 🤖 Databases - MSSQL • MongoDB • SQL • Aurora  • DynamoDB  • MongoDB
 
-📈 Other Skills - Linux • Networking • Cloud Security • Solution Architecture
+📈 Other Skills - Linux • Networking • Cloud Security • Solution Architecture, Azure
 
 ---
 
