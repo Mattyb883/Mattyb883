@@ -70,11 +70,6 @@ When I'm not coding, you can find me:
 
 ---
 
-## 📬 Connect with Me
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/matthewbaglietto/)](https://www.linkedin.com/in/matthewbaglietto/)
-
----
-
 ## 🌟 Fun Projects Coming Soon!
 
 Stay tuned for projects I'm working on during my **Cloud DevOps journey**. Feel free to connect if you'd like to work together on something amazing!
